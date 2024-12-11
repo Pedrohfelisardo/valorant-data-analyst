@@ -1,0 +1,32 @@
+/* TimeA*/
+"Time;nome;agente;kills;mortes;assists;plantes;disarms_spike"
+"A;Pedro;Gekko;6;21;11;3;1"
+"A;Gustavo;Jett;44;17;6;0;0"
+"A;Bruno;KillJoy;17;19;5;1;0"
+"A;Igor;Clove;12;20;10;0;1"
+"A;Higa;Sova;4;21;9;1;0"
+
+/*Time B */ 
+"Time;nome;agente;kills;mortes;assists;plantes;disarms_spike"
+"B;Angel;Sage;11;17;14;0;0"
+"B;Thiago;Cypher;25;14;5;2;0"
+"B;Ricardo;Jett;27;19;5;1;0"
+"B;Gebe;Reyna;27;15;9;1;0"
+"B;Rapha;KillJoy;8;18;9;2;1"
+
+  /*Duelos TimeA vs TimeB */
+Time1;Ricardo;Gebe;Thiago;Angel;Rapha;Totais
+Pedro;0;2;2;2;0;6
+Gustavo;13;9;5;9;8;44
+Bruno;3;1;5;4;4;17
+Igor;2;2;2;1;5;12
+Higa;1;1;0;1;1;4
+
+  /* Duelos TimeB vs TimeA */
+  
+Time2;Pedro;Gustavo;Bruno;Igor;Higa;Totais
+Ricardo;6;6;4;4;7;27
+Gebe;4;6;5;8;4;27
+Thiago;5;2;6;6;6;25
+Angel;2;2;4;1;2;11
+Rapha;4;1;0;1;2;8
